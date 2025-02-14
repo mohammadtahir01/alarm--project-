@@ -16,10 +16,10 @@ let set=()=>{
         }
 
         
-        setTimeout(()=>{
-            clearInterval(stop);
-            mus.pause();
-        },15000)
+        // setTimeout(()=>{
+        //     clearInterval(stop);
+        //     mus.pause();
+        // },15000)
     }, 1000);
 
 
