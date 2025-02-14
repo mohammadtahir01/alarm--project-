@@ -70,7 +70,11 @@ h1{
     }
 
     #h1{
-        margin-left: 5rem;
+        margin-left: 4rem;
+        
     }
     
+    #style input{
+        padding: 8px 12px;
+    }
 }
